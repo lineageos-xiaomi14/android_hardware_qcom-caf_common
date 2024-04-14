@@ -35,3 +35,6 @@ QCOM_BOARD_PLATFORMS += parrot
 
 # UM 5.15
 QCOM_BOARD_PLATFORMS += kalama
+
+# UM 6.1
+QCOM_BOARD_PLATFORMS += pineapple
